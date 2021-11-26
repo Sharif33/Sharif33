@@ -1,4 +1,3 @@
-<img src="https://scontent.fdac11-1.fna.fbcdn.net/v/t1.6435-9/89307171_2467196006879301_3055894038835101696_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=QHUERk4XD-UAX9J4kP1&_nc_ht=scontent.fdac11-1.fna&oh=75da6a19788cd6673cc54d31f8c0d0bb&oe=61C10B4C" alt="">
 <h1 align="center">Hi 👋, I'm Sharif Mohammad Rashed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
