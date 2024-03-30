@@ -6,8 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharif33](https://github.com/Sharif33)
 - 📫 How to reach me **sharif.cse.nu@gmail.com**
-- 💬 Ask me about **Javascript,React,MUI,tailwindCSS,Bootstrap5,CSS3,HTML5**
--  🌱 I’m currently learning **NEXT.js**
+- 💬 Ask me about **Javascript, Typescript, React, MUI, tailwind CSS, Cypress**
+-  🌱 I’m currently learning **NEXT.js and chrome extension**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
