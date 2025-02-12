@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharif33](https://github.com/Sharif33)
 - 📫 How to reach me **sharif.cse.nu@gmail.com**
-- 💬 Ask me about **Javascript, Typescript, React, MUI, tailwind CSS, Cypress**
+- 💬 Ask me about **Javascript, Typescript, React, MUI, tailwind CSS, Cypress, Chrome extension, Plasmo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
