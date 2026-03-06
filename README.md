@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sharif%20Mohammad%20Rashed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1 align="center">Hi 👋, I'm Sharif Mohammad Rashed</h1>
-
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer;React+%7C+TypeScript+Developer;Chrome+Extension+Developer;MERN+Stack+Developer;Building+Scalable+Web+Apps&center=true&width=500&height=45">
@@ -81,17 +79,9 @@ Passionate about building scalable web applications, modern UI systems, and powe
 
 ---
 
-# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sharif33&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharif33&theme=tokyo-night"/>
 </p>
 
@@ -102,7 +92,7 @@ Passionate about building scalable web applications, modern UI systems, and powe
 🔹 Chrome Extensions built using **Plasmo**  
 🔹 Full Stack **MERN dashboards**  
 🔹 React UI systems with **Tailwind & MUI**  
-🔹 End-to-end testing architecture with **Cypress**
+🔹 End-to-end testing architecture with **Cypress & Playwright**
 
 ---
 
