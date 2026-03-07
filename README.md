@@ -79,20 +79,10 @@ Passionate about building scalable web applications, modern UI systems, and powe
 
 ---
 
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sharif33&theme=tokyonight"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharif33&theme=tokyo-night"/>
 </p>
-
----
-
-# 🚀 Featured Work
-
-🔹 Chrome Extensions built using **Plasmo**  
-🔹 Full Stack **MERN dashboards**  
-🔹 React UI systems with **Tailwind & MUI**  
-🔹 End-to-end testing architecture with **Cypress & Playwright**
 
 ---
 
